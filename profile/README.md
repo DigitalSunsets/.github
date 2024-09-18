@@ -50,7 +50,8 @@ An Agency Full of Software Developers with over five years of experience, I exce
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DigitalSunsets&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=bySharkster&show_icons=true&theme=radical" alt="Fer GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Greg-cs&show_icons=true&theme=radical" alt="Greg GitHub Stats" />
 </div>
 
 ## 🤝 Let's Connect
