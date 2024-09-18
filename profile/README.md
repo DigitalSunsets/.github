@@ -56,7 +56,7 @@ An Agency Full of Software Developers with over five years of experience, I exce
 
 ## 🤝 Let's Connect
 
-I'm always excited to collaborate on innovative projects and contribute to team success. If you're looking for a dedicated Front End Developer who can bring your ideas to life, let's connect!
+We're always excited to collaborate on innovative projects and contribute to team success. If you're looking for a dedicated Full Stack Developers who can bring your ideas to life, let's connect!
 
 <p align="center">
   <a href="https://www.linkedin.com/company/104882836"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -65,5 +65,5 @@ I'm always excited to collaborate on innovative projects and contribute to team 
 </p>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=AdminAtDS&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DigitalSunsets&style=flat-square&color=blue" alt="Profile Views" />
 </div>
